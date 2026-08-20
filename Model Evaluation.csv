@@ -1,0 +1,13 @@
+Model,Dataset,R2 Score,MAE,RMSE
+Linear Regression,Test,90.49,2354.16,4180.13
+Ridge,Test,90.49,2354.25,4180.22
+Lasso,Test,90.49,2354.18,4180.14
+XGBoost,Test,90.11,2460.11,4263.32
+Random Forest,Test,90.1,2418.27,4265.89
+Decision Tree,Test,89.03,2673.87,4489.85
+XGBoost,Train,88.54,2138.37,3960.84
+Random Forest,Train,88.18,2169.19,4023.57
+Decision Tree,Train,86.3,2438.17,4331.02
+Linear Regression,Train,84.74,2530.03,4571.37
+Ridge,Train,84.74,2530.09,4571.37
+Lasso,Train,84.74,2530.04,4571.37
